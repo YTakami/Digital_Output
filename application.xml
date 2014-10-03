@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://www.kinoma.com/kpr/application/1" id="leds_servo2" program="src/mainpanel" title="leds_servo2">
+
+</application>
